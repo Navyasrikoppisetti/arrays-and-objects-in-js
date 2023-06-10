@@ -1,0 +1,29 @@
+{
+  "name": "Navyasri Koppisetti",
+  "email": "navyasrikoppisetti1@gmail.com",
+  "phone": "+91 8499873158",
+  "address": "D.no:13-2-92/2,gutla street, Pithapuram",
+  "summary": "Aspiring Retail Associate with strong interpersonal and communication skills.skilled full stack developer. Goal-oriented individual with a strong understanding of team members. Participated in skills development workshops at kiet College.’
+  "education": [
+    {
+      "degree": "B.tech in EEE",
+      "university": "Kakinada Institute of Engineering and Technology for Women",
+      "graduation_year": 2021
+    }
+  ],
+  
+  "skills": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "React.js",
+    "Node.js",
+    "Express",
+    "SQL"
+  ],
+  
+  "projects": [
+      "*Student Advisor AI Powered Chatbot"
+      ]
+  
+}
