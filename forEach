@@ -1,0 +1,12 @@
+const population = {
+  male: 4,
+  female: 93,
+  others: 10
+};
+
+let genders = Object.keys(population);
+
+console.log(genders); // ["male","female","others"]
+let genders = Object.keys(population);
+
+genders.forEach((gender) => console.log(gender));
